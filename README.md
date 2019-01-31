@@ -1,0 +1,1 @@
+keytool -v -genkey -v -keystore keystore.keystore -alias keystorename -keyalg RSA -validity 10000
